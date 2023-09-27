@@ -3,7 +3,7 @@
 </h1>
 
 Bytebank is a digital bank that requires unit testing of its components and pages. <br />
-With course 01 of the automated testing training, I obtained all the knowledge present in the content below.
+With **course 01** of the automated testing training, I obtained all the knowledge present in the content below.
 
  ## 📚 Learnings
 
