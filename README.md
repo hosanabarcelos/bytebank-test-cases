@@ -2,27 +2,27 @@
     Bytebank
 </h1>
 
-Bytebank is a digital bank that requires unit testing of its components and pages. <br />
-With **course 01** of the automated testing training, I obtained all the knowledge present in the content below.
+Bytebank é um banco digital que precisa de testes unitários em seus componentes e páginas. <br />
+Com o **curso 01** da formação de testes automatizados, obtive todo o conhecimento presente no conteúdo abaixo:
 
- ## 📚 Learnings
+ ## 📚 Conhecimentos
 
-Learnings acquired during development:
-- The importance of creating a testing culture in applications;
-- How the Testing Pyramid can guide developers;
-- Configuring ESLint together with Prettier;
-- Query functions like getByText, getAllByRole and queryByText;
-- Event Tests;
-- Dubbing role behaviors;
-- Functions behaviors;
-- Functions mocks;
-- Introduction to TDD;
-- Tests with semantic language.
+Conhecimentos adquiridos durante o desenvolvimento:
+- A importância de criar uma cultura de testes nas aplicações;
+- Como a Pirâmide de Testes pode orientar os desenvolvedores;
+- Configuração de ESLint junto com Prettier;
+- Funções de consulta como getByText, getAllByRole e queryByText;
+- Testes de eventos;
+- Dublagem de comportamentos;
+- Comportamentos de funções;
+- Mocks de funções;
+- Introdução ao TDD;
+- Testes com linguagem semântica.
 
   
- ## 🛠️ Technologies
+ ## 🛠️ Tecnologias
 
-Technologies used in development:
+Tecnologias usadas durante o desenvolvimento:
 
 - [React](https://react.dev/)
 - [Jest](https://jestjs.io/pt-BR/)
@@ -30,19 +30,19 @@ Technologies used in development:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
-## ⚙️ Setting
+## ⚙️ Como testar?
 
-Cloning the project:
+Clonando o projeto:
 ```bash
 $ git clone https://github.com/hosanabarcelos/bytebank-unitary-tests.git
 ```
 
-Run:
+Rodando:
 ``` bash
-# installing the dependencies
+# Instale as dependências:
 $ npm install
 
-# running the tests
+# Rode os testes:
 $ npm run test
 ```
 ---
